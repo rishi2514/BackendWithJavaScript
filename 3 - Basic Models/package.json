@@ -1,0 +1,20 @@
+{
+  "name": "3---basic-models",
+  "version": "1.0.0",
+  "description": "different ways of making models and industry way as well",
+  "keywords": [
+    "models",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Rishi Kumar Yadav",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.0"
+  }
+}
